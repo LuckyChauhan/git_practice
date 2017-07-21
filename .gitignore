@@ -1,1 +1,5 @@
-extra/*.txt
+# igonre all text files in extra directory
+#extra/*.txt
+
+# ignore all text files in extra directory and in all its subdirectories
+extra/**/*.txt
